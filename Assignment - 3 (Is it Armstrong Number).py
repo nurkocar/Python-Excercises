@@ -1,3 +1,6 @@
+# Bir sayının basamaklarındaki tüm rakamların ayrı ayrı küplerinin 
+# toplamı kendisine eşitse bu sayıya Armstrong sayı denir.
+
 num = input('Enter a positive integer number to see if it is an Armstrong Number :')
 result = 0
 if (not (num.isdigit())) or int(num) < 0:
