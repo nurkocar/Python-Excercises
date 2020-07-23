@@ -1,4 +1,4 @@
-# if statement ilk odev
+# if statement ilk odev tamamlandi
 {
  "cells": [
   {
