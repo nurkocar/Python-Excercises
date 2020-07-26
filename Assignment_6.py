@@ -1,4 +1,4 @@
-# Bu kod blogu girilen sayiya kadar olan asal sayilari liste halinde verir.
+# Bu kod blogu girilen sayiya kadar olan asal sayilari liste halinde verir..
 num = int(input('Enter a limit to see the prime numbers :'))
 
 last_list = []
