@@ -1,4 +1,4 @@
-# 55 e kadar olan Fibonacci listesini verir 
+# 55 e kadar olan Fibonacci listesini verir.
 fibonacci_list = [1,1]
 toplam = 0
 for i in range(100):
