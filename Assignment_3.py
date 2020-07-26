@@ -1,5 +1,5 @@
 # Bir sayının basamaklarındaki tüm rakamların ayrı ayrı küplerinin 
-# toplamı kendisine eşitse bu sayıya Armstrong sayı denir.
+# toplamı kendisine eşitse bu sayıya Armstrong sayı denir...
 
 num = input('Enter a positive integer number to see if it is an Armstrong Number :')
 result = 0
