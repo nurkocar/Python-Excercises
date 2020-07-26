@@ -1,4 +1,4 @@
-# Girilen sayinin asal olup olmadigini sorgular
+# Girilen sayinin asal olup olmadigini sorgular.
 num = int(input('Enter a positive number to check if it is a prime number or not? :'))
 divisors = []
 for i in range(1, num + 1):
