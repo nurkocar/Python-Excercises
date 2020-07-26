@@ -1,4 +1,4 @@
-#Covid riski var mi yok mu bakar
+#Covid riski var mi yok mu bakar.
 {
  "cells": [
   {
