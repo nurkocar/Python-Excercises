@@ -11,3 +11,5 @@ def repeatedString(s, n):
     return(num_a)
 
 print(repeatedString('aba', 10))
+print(repeatedString('a', 1000))
+print(repeatedString('aa', 1000))
