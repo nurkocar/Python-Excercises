@@ -6,10 +6,12 @@ def repeatedString(s, n):
             for letter in s:
                 s += letter
     
-    s = s[:n+1]
+    s = s[:n]
+    # print(s)
     num_a = s.count('a')
     return(num_a)
 
 print(repeatedString('aba', 10))
-print(repeatedString('a', 1000))
-print(repeatedString('aa', 1000))
+print(repeatedString('aba', 12))
+print(repeatedString('a', 10))
+print(repeatedString('aa', 10))
