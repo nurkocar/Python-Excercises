@@ -25,9 +25,11 @@
 
 arr = [5, 2, 5, 6, 3]
 
-arr = set(arr)
-print(arr)
-arr = sorted(arr)
-print(arr)
-print(arr[-2])
+# arr = set(arr)
+# print(arr)
+# arr = sorted(arr)
+# print(arr)
+# print(arr[-2])
+
+print(sorted(set(arr))[-2])
 
