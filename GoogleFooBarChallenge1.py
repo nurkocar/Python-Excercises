@@ -87,22 +87,22 @@
 
 # ANOTHER SOLUTION
 
-def solution(b):
-    bag = "2"
-    for num in range(0,20500):
-        if num > 1:
-            for j in range(2,num):
-                if (num % j) == 0:
-                    break
-                elif len(bag) >= 10006:
-                    break
-                elif j==num-1:
-                    bag += str(num)
-                    break
-                else:
-                    continue
+# def solution(b):
+#     bag = "2"
+#     for num in range(0,20500):
+#         if num > 1:
+#             for j in range(2,num):
+#                 if (num % j) == 0:
+#                     break
+#                 elif len(bag) >= 10006:
+#                     break
+#                 elif j==num-1:
+#                     bag += str(num)
+#                     break
+#                 else:
+#                     continue
 
-    return bag[b:b+5]
+#     return bag[b:b+5]
 
 
-print(solution(3))
+# print(solution(3))
