@@ -58,6 +58,9 @@
 #     id = s[n:n+5]
 #     return id
 
+
+# MY SOLUTION
+
 # def getLongPrimeString():
 #     long_string = ''
 #     i = 2
